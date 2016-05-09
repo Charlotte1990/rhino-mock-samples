@@ -18,7 +18,7 @@ namespace Libraries.Components
         public string ReturnStringWithOneParameter(string text) {
             return service.ReturnStringWithOneParameter(text);
         }
-        public string ReturnStringWithParameter(string first, string second) {
+        public string ReturnStringWithTwoParameters(string first, string second) {
             return service.ReturnStringWithTwoParameters(first, second);
         }
         public void ReturnVoidWithRefParameter(ref string text) {
