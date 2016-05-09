@@ -40,7 +40,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Components\Application.cs" />
-    <Compile Include="Components\Dependency.cs" />
     <Compile Include="Interfaces\IDependency.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
