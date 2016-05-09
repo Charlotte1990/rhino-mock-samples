@@ -1,2 +1,4 @@
 language: csharp
 solution: Libraries.sln
+notifications:
+  email: false
